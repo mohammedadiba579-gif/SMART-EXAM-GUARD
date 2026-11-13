@@ -1,0 +1,6 @@
+{
+  "name": "Smart Examination Hall Monitoring System",
+  "description": "AI-powered real-time examination hall surveillance and suspicious activity detection system supporting real USB webcams and integrated laptop cameras.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
